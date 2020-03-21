@@ -1,0 +1,41 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.基本图形框架 {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+#_idContainer000 {
+	display:inline-block;
+	width:99.75%;
+}
+#_idContainer001, #_idContainer002, #_idContainer003, #_idContainer004, #_idContainer005, #_idContainer006, #_idContainer007, #_idContainer008, #_idContainer009, #_idContainer010, #_idContainer011, #_idContainer012, #_idContainer013, #_idContainer014, #_idContainer015, #_idContainer016, #_idContainer017, #_idContainer018, #_idContainer019, #_idContainer020, #_idContainer021, #_idContainer022, #_idContainer023, #_idContainer024, #_idContainer025, #_idContainer027, #_idContainer028, #_idContainer029, #_idContainer030, #_idContainer031, #_idContainer032, #_idContainer033, #_idContainer034, #_idContainer035, #_idContainer036, #_idContainer037, #_idContainer038, #_idContainer039, #_idContainer040, #_idContainer041, #_idContainer042, #_idContainer043, #_idContainer044, #_idContainer045, #_idContainer046, #_idContainer047, #_idContainer048, #_idContainer049, #_idContainer050, #_idContainer051, #_idContainer052, #_idContainer053, #_idContainer054, #_idContainer055, #_idContainer056, #_idContainer057, #_idContainer058, #_idContainer059, #_idContainer060, #_idContainer061, #_idContainer062, #_idContainer063 {
+	display:inline-block;
+	width:100.00%;
+}
+#_idContainer026 {
+	display:inline-block;
+	padding:56.16% 0% 0% 0%;
+	position:relative;
+	width:99.93%;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#ffffff;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
