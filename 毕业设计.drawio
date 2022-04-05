@@ -1,32 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T11:47:26.285Z" agent="5.0 (Windows)" etag="OsE5_QxJStpRR-wctIy0" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T16:07:26.749Z" agent="5.0 (Windows)" etag="nAcOMdouqC-JoBD8sAD5" version="15.9.1" type="github">
   <diagram id="Cq71dIn0JD1J3Re9PuSb" name="Page-1">
-    <mxGraphModel dx="865" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-1" value="收集感性意向词汇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="90" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-2" value="收集产品样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="90" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-3" value="邀请被试进行打分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-4" value="提取对审美偏好影响最大的感性意向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="230" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-5" target="Gl-4RDtrzEMA0AwHz98H-6">
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-1" target="Gl-4RDtrzEMA0AwHz98H-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-5" value="眼动实验挑选影响该意向的关键设计要素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="300" width="140" height="50" as="geometry" />
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-1" value="收集感性意向词汇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-6" value="数量化理论Ⅰ建立模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="380" width="140" height="40" as="geometry" />
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-2" value="收集产品样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="140" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gl-4RDtrzEMA0AwHz98H-8" value="眼动实验挑选影响该意向的关键设计要素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="450" width="140" height="50" as="geometry" />
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-3" target="Gl-4RDtrzEMA0AwHz98H-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-3" value="邀请被试进行打分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-4" target="Gl-4RDtrzEMA0AwHz98H-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-4" value="获得不同感性意向对审美评价的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-5" target="Gl-4RDtrzEMA0AwHz98H-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-5" value="眼动实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="210" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-6" target="Gl-4RDtrzEMA0AwHz98H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-6" value="建立意向语义与形态关系映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="480" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-8" target="Gl-4RDtrzEMA0AwHz98H-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-8" value="初始种群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="560" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-10" target="Gl-4RDtrzEMA0AwHz98H-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-10" value="计算感性意向下设计要素贡献得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-11" target="Gl-4RDtrzEMA0AwHz98H-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-11" value="求解适应度值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="640" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-16" target="Gl-4RDtrzEMA0AwHz98H-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-16" value="从关键部件提取特征因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="350" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-17" target="Gl-4RDtrzEMA0AwHz98H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-17" value="对不同部位特征因子进行分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="410" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-28" target="Gl-4RDtrzEMA0AwHz98H-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529" y="778" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-28" value="满足进化终止条件？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;spacingTop=0;spacingBottom=0;spacingRight=10;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="331.5" y="730" width="145" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-34" value="方案建模" style="whiteSpace=wrap;html=1;rounded=0;spacingTop=0;spacingLeft=10;spacingBottom=0;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="344" y="860" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-39" target="Gl-4RDtrzEMA0AwHz98H-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-39" value="&lt;div&gt;选择&lt;/div&gt;&lt;div&gt;交叉&lt;/div&gt;&lt;div&gt;编译&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="549" y="737.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-40" target="Gl-4RDtrzEMA0AwHz98H-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-40" value="生成子代" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550.25" y="626.25" width="77.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-43" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="493" y="750" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-44" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="830" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
