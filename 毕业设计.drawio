@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T07:36:12.463Z" agent="5.0 (Windows)" version="15.9.1" etag="lsQrFfVSGsFDmadH7qZ6" type="github"><diagram id="Cq71dIn0JD1J3Re9PuSb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-05T11:47:26.285Z" agent="5.0 (Windows)" etag="OsE5_QxJStpRR-wctIy0" version="15.9.1" type="github">
+  <diagram id="Cq71dIn0JD1J3Re9PuSb" name="Page-1">
+    <mxGraphModel dx="865" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-1" value="收集感性意向词汇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-2" value="收集产品样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-3" value="邀请被试进行打分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-4" value="提取对审美偏好影响最大的感性意向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gl-4RDtrzEMA0AwHz98H-5" target="Gl-4RDtrzEMA0AwHz98H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-5" value="眼动实验挑选影响该意向的关键设计要素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="300" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-6" value="数量化理论Ⅰ建立模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gl-4RDtrzEMA0AwHz98H-8" value="眼动实验挑选影响该意向的关键设计要素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="450" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
