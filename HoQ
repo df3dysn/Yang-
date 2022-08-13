@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T10:19:43.744Z" agent="5.0 (Windows)" etag="9DpT9evPNa5n6sxCSp1Z" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T10:19:54.612Z" agent="5.0 (Windows)" etag="CQMIamgDgnM5Sl0r8sZ3" version="17.5.0" type="github">
   <diagram id="FdYfspFvynMZuHTxX4CU" name="Page-1">
     <mxGraphModel dx="1270" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="4oLzZsZzvpqu5zGMwfEt-9" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Competition&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;benchmarks&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="4oLzZsZzvpqu5zGMwfEt-11">
           <mxGeometry x="404.20799999999997" y="148.42105263157893" width="101.05199999999999" height="75.78947368421052" as="geometry" />
         </mxCell>
-        <mxCell id="4oLzZsZzvpqu5zGMwfEt-10" value="Customer needs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="4oLzZsZzvpqu5zGMwfEt-11">
+        <mxCell id="4oLzZsZzvpqu5zGMwfEt-10" value="User needs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="4oLzZsZzvpqu5zGMwfEt-11">
           <mxGeometry y="148.42105263157893" width="88.4205" height="75.78947368421052" as="geometry" />
         </mxCell>
       </root>
